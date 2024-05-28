@@ -1,0 +1,74 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          0,
+          450
+        ],
+        [
+          0,
+          512
+        ],
+        [
+          11,
+          512
+        ],
+        [
+          23,
+          478
+        ],
+        [
+          20,
+          459
+        ],
+        [
+          8,
+          448
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          83,
+          481
+        ],
+        [
+          60,
+          464
+        ],
+        [
+          47,
+          485
+        ],
+        [
+          43,
+          505
+        ],
+        [
+          42,
+          512
+        ],
+        [
+          90,
+          512
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "aqmcoshbyq.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

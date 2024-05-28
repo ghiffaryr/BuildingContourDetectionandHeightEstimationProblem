@@ -1,0 +1,35 @@
+{
+  "version": "5.2.0.post4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          246.63320463320468,
+          114.31660231660231
+        ],
+        [
+          242.63320463320468,
+          165.3166023166023
+        ],
+        [
+          272.988416988417,
+          167.96911196911196
+        ],
+        [
+          277.2355212355212,
+          114.68725868725868
+        ]
+      ],
+      "group_id": 3,
+      "description": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "awqeebcdts.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

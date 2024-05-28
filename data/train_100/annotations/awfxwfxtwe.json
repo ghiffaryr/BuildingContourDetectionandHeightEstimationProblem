@@ -1,0 +1,1078 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          511,
+          357
+        ],
+        [
+          511,
+          364
+        ],
+        [
+          478,
+          364
+        ],
+        [
+          478,
+          385
+        ],
+        [
+          512,
+          385
+        ],
+        [
+          512,
+          357
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          1,
+          165
+        ],
+        [
+          115,
+          165
+        ],
+        [
+          115,
+          142
+        ],
+        [
+          1,
+          142
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          172,
+          0
+        ],
+        [
+          65,
+          0
+        ],
+        [
+          67,
+          62
+        ],
+        [
+          146,
+          59
+        ],
+        [
+          148,
+          121
+        ],
+        [
+          186,
+          120
+        ],
+        [
+          182,
+          9
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          14,
+          46
+        ],
+        [
+          67,
+          44
+        ],
+        [
+          65,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          15,
+          69
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          121,
+          121
+        ],
+        [
+          120,
+          93
+        ],
+        [
+          0,
+          96
+        ],
+        [
+          0,
+          124
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          158,
+          188
+        ],
+        [
+          158,
+          180
+        ],
+        [
+          0,
+          178
+        ],
+        [
+          0,
+          206
+        ],
+        [
+          167,
+          209
+        ],
+        [
+          168,
+          189
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          154,
+          469
+        ],
+        [
+          153,
+          505
+        ],
+        [
+          178,
+          505
+        ],
+        [
+          179,
+          469
+        ],
+        [
+          162,
+          469
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          182,
+          359
+        ],
+        [
+          182,
+          315
+        ],
+        [
+          155,
+          314
+        ],
+        [
+          154,
+          359
+        ],
+        [
+          164,
+          359
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          0,
+          343
+        ],
+        [
+          0,
+          372
+        ],
+        [
+          164,
+          375
+        ],
+        [
+          164,
+          359
+        ],
+        [
+          154,
+          359
+        ],
+        [
+          154,
+          346
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          184,
+          271
+        ],
+        [
+          185,
+          229
+        ],
+        [
+          159,
+          229
+        ],
+        [
+          158,
+          271
+        ],
+        [
+          165,
+          271
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          0,
+          260
+        ],
+        [
+          0,
+          288
+        ],
+        [
+          165,
+          291
+        ],
+        [
+          165,
+          271
+        ],
+        [
+          158,
+          271
+        ],
+        [
+          158,
+          263
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          186,
+          189
+        ],
+        [
+          186,
+          146
+        ],
+        [
+          159,
+          145
+        ],
+        [
+          158,
+          188
+        ],
+        [
+          168,
+          189
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          162,
+          439
+        ],
+        [
+          0,
+          436
+        ],
+        [
+          0,
+          466
+        ],
+        [
+          162,
+          469
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          483,
+          38
+        ],
+        [
+          483,
+          80
+        ],
+        [
+          502,
+          80
+        ],
+        [
+          503,
+          73
+        ],
+        [
+          512,
+          73
+        ],
+        [
+          512,
+          38
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          305,
+          74
+        ],
+        [
+          276,
+          73
+        ],
+        [
+          275,
+          166
+        ],
+        [
+          303,
+          167
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          342,
+          34
+        ],
+        [
+          341,
+          85
+        ],
+        [
+          368,
+          86
+        ],
+        [
+          369,
+          35
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          341,
+          85
+        ],
+        [
+          340,
+          133
+        ],
+        [
+          320,
+          133
+        ],
+        [
+          319,
+          166
+        ],
+        [
+          366,
+          167
+        ],
+        [
+          368,
+          86
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          295,
+          211
+        ],
+        [
+          295,
+          180
+        ],
+        [
+          270,
+          179
+        ],
+        [
+          270,
+          211
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          267,
+          304
+        ],
+        [
+          293,
+          305
+        ],
+        [
+          294,
+          254
+        ],
+        [
+          268,
+          253
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          265,
+          401
+        ],
+        [
+          264,
+          430
+        ],
+        [
+          412,
+          433
+        ],
+        [
+          412,
+          403
+        ],
+        [
+          292,
+          401
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          439,
+          337
+        ],
+        [
+          512,
+          338
+        ],
+        [
+          512,
+          310
+        ],
+        [
+          439,
+          309
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          267,
+          304
+        ],
+        [
+          267,
+          335
+        ],
+        [
+          416,
+          338
+        ],
+        [
+          416,
+          307
+        ],
+        [
+          293,
+          305
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          270,
+          211
+        ],
+        [
+          269,
+          238
+        ],
+        [
+          428,
+          241
+        ],
+        [
+          429,
+          214
+        ],
+        [
+          295,
+          211
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          265,
+          401
+        ],
+        [
+          292,
+          401
+        ],
+        [
+          293,
+          350
+        ],
+        [
+          266,
+          350
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          438,
+          407
+        ],
+        [
+          437,
+          434
+        ],
+        [
+          512,
+          435
+        ],
+        [
+          512,
+          408
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          266,
+          497
+        ],
+        [
+          266,
+          512
+        ],
+        [
+          416,
+          512
+        ],
+        [
+          416,
+          500
+        ],
+        [
+          291,
+          498
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          266,
+          497
+        ],
+        [
+          291,
+          498
+        ],
+        [
+          292,
+          464
+        ],
+        [
+          267,
+          463
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          436,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          503
+        ],
+        [
+          436,
+          502
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          39,
+          332
+        ],
+        [
+          111,
+          331
+        ],
+        [
+          111,
+          304
+        ],
+        [
+          39,
+          305
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          333,
+          384
+        ],
+        [
+          350,
+          390
+        ],
+        [
+          363,
+          373
+        ],
+        [
+          352,
+          362
+        ],
+        [
+          332,
+          365
+        ],
+        [
+          331,
+          374
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          333,
+          360
+        ],
+        [
+          328,
+          354
+        ],
+        [
+          317,
+          355
+        ],
+        [
+          308,
+          361
+        ],
+        [
+          310,
+          372
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          331,
+          374
+        ],
+        [
+          332,
+          365
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          343,
+          0
+        ],
+        [
+          287,
+          0
+        ],
+        [
+          286,
+          1
+        ],
+        [
+          285,
+          52
+        ],
+        [
+          308,
+          52
+        ],
+        [
+          308,
+          15
+        ],
+        [
+          343,
+          15
+        ],
+        [
+          343,
+          10
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          374,
+          11
+        ],
+        [
+          374,
+          6
+        ],
+        [
+          402,
+          6
+        ],
+        [
+          402,
+          0
+        ],
+        [
+          343,
+          0
+        ],
+        [
+          343,
+          10
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          386,
+          68
+        ],
+        [
+          461,
+          69
+        ],
+        [
+          462,
+          42
+        ],
+        [
+          387,
+          40
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          388,
+          134
+        ],
+        [
+          387,
+          160
+        ],
+        [
+          460,
+          162
+        ],
+        [
+          461,
+          135
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          462,
+          99
+        ],
+        [
+          436,
+          99
+        ],
+        [
+          435,
+          134
+        ],
+        [
+          461,
+          135
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          68.0,
+          512.0
+        ],
+        [
+          68.0,
+          490.0
+        ],
+        [
+          2.0,
+          490.0
+        ],
+        [
+          2.0,
+          511.0
+        ],
+        [
+          68.0,
+          512.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          66.0,
+          83.0
+        ],
+        [
+          65.0,
+          53.0
+        ],
+        [
+          20.0,
+          55.0
+        ],
+        [
+          21.0,
+          85.0
+        ],
+        [
+          66.0,
+          83.0
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "awfxwfxtwe.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

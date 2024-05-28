@@ -1,0 +1,170 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          104,
+          268
+        ],
+        [
+          311,
+          337
+        ],
+        [
+          335,
+          266
+        ],
+        [
+          128,
+          197
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          102,
+          267
+        ],
+        [
+          81,
+          332
+        ],
+        [
+          289,
+          402
+        ],
+        [
+          311,
+          337
+        ],
+        [
+          104,
+          268
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          344,
+          352
+        ],
+        [
+          512,
+          408
+        ],
+        [
+          512,
+          328
+        ],
+        [
+          368,
+          280
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          165.0,
+          512.0
+        ],
+        [
+          165.0,
+          465.0
+        ],
+        [
+          6.0,
+          464.0
+        ],
+        [
+          5.0,
+          511.0
+        ],
+        [
+          165.0,
+          512.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          162.0,
+          473.0
+        ],
+        [
+          180.0,
+          416.0
+        ],
+        [
+          146.0,
+          406.0
+        ],
+        [
+          128.0,
+          462.0
+        ],
+        [
+          162.0,
+          473.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          128.0,
+          453.0
+        ],
+        [
+          148.0,
+          394.0
+        ],
+        [
+          89.0,
+          375.0
+        ],
+        [
+          70.0,
+          433.0
+        ],
+        [
+          128.0,
+          453.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "azbbubhsun.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

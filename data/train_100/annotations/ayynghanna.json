@@ -1,0 +1,82 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          422,
+          407
+        ],
+        [
+          428,
+          410
+        ],
+        [
+          442,
+          384
+        ],
+        [
+          435,
+          381
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          463,
+          253
+        ],
+        [
+          405,
+          365
+        ],
+        [
+          512,
+          421
+        ],
+        [
+          512,
+          278
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          392,
+          392
+        ],
+        [
+          330,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          453
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ayynghanna.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

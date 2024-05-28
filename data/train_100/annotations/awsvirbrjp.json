@@ -1,0 +1,35 @@
+{
+  "version": "5.2.0.post4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          65.0,
+          477.0
+        ],
+        [
+          64.0,
+          457.0
+        ],
+        [
+          36.0,
+          457.0
+        ],
+        [
+          36.0,
+          477.0
+        ]
+      ],
+      "group_id": 3,
+      "description": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "awsvirbrjp.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

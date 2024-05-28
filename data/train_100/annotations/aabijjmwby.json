@@ -1,0 +1,138 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          19,
+          498
+        ],
+        [
+          31,
+          497
+        ],
+        [
+          29,
+          483
+        ],
+        [
+          17,
+          485
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          29,
+          483
+        ],
+        [
+          25,
+          454
+        ],
+        [
+          7,
+          456
+        ],
+        [
+          12,
+          486
+        ],
+        [
+          17,
+          485
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          184,
+          213
+        ],
+        [
+          205,
+          212
+        ],
+        [
+          204,
+          122
+        ],
+        [
+          183,
+          122
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          188,
+          93
+        ],
+        [
+          199,
+          93
+        ],
+        [
+          200,
+          49
+        ],
+        [
+          188,
+          49
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          146.0,
+          361.0
+        ],
+        [
+          142.0,
+          340.0
+        ],
+        [
+          124.0,
+          344.0
+        ],
+        [
+          128.0,
+          365.0
+        ],
+        [
+          146.0,
+          361.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "aabijjmwby.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

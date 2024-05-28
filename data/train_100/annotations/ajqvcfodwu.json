@@ -1,0 +1,174 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          267,
+          39
+        ],
+        [
+          267,
+          2
+        ],
+        [
+          108,
+          2
+        ],
+        [
+          108,
+          19
+        ],
+        [
+          138,
+          20
+        ],
+        [
+          138,
+          25
+        ],
+        [
+          179,
+          25
+        ],
+        [
+          179,
+          71
+        ],
+        [
+          137,
+          70
+        ],
+        [
+          137,
+          95
+        ],
+        [
+          227,
+          95
+        ],
+        [
+          227,
+          39
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          241,
+          172
+        ],
+        [
+          322,
+          172
+        ],
+        [
+          322,
+          116
+        ],
+        [
+          241,
+          116
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          133,
+          218
+        ],
+        [
+          256,
+          216
+        ],
+        [
+          255,
+          181
+        ],
+        [
+          133,
+          183
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          32,
+          229
+        ],
+        [
+          93,
+          228
+        ],
+        [
+          93,
+          169
+        ],
+        [
+          32,
+          170
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          137,
+          112
+        ],
+        [
+          137,
+          105
+        ],
+        [
+          137,
+          95
+        ],
+        [
+          138,
+          20
+        ],
+        [
+          24,
+          18
+        ],
+        [
+          22,
+          110
+        ],
+        [
+          80,
+          111
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ajqvcfodwu.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

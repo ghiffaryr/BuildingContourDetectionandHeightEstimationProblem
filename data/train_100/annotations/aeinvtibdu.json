@@ -1,0 +1,86 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          489,
+          436
+        ],
+        [
+          489,
+          444
+        ],
+        [
+          499,
+          444
+        ],
+        [
+          499,
+          436
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          508,
+          432
+        ],
+        [
+          499,
+          432
+        ],
+        [
+          499,
+          445
+        ],
+        [
+          508,
+          445
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          497.0,
+          512.0
+        ],
+        [
+          499.0,
+          479.0
+        ],
+        [
+          432.0,
+          476.0
+        ],
+        [
+          430.0,
+          512.0
+        ],
+        [
+          497.0,
+          512.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "aeinvtibdu.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,146 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "building",
+      "points": [
+        [
+          192,
+          288
+        ],
+        [
+          192,
+          221
+        ],
+        [
+          184,
+          221
+        ],
+        [
+          184,
+          288
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          209,
+          290
+        ],
+        [
+          209,
+          339
+        ],
+        [
+          226,
+          339
+        ],
+        [
+          226,
+          290
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          294,
+          283
+        ],
+        [
+          294,
+          272
+        ],
+        [
+          242,
+          272
+        ],
+        [
+          242,
+          284
+        ],
+        [
+          245,
+          284
+        ],
+        [
+          245,
+          290
+        ],
+        [
+          290,
+          290
+        ],
+        [
+          290,
+          283
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          249,
+          272
+        ],
+        [
+          249,
+          262
+        ],
+        [
+          242,
+          262
+        ],
+        [
+          242,
+          272
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "building",
+      "points": [
+        [
+          237,
+          375
+        ],
+        [
+          295,
+          375
+        ],
+        [
+          295,
+          355
+        ],
+        [
+          237,
+          355
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "aulqwpqkiy.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}
